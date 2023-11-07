@@ -33,6 +33,4 @@
 
 /config/master.key
 
-
-DockerDesktopWSL/main/ext4.vhdx
-DockerDesktopWSL/data/ext4.vhdx
+node_modules
